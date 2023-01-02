@@ -6,4 +6,4 @@ int main()
 
 cout<<"My first git and git hub";
 }
-//comment
+//comment//cloned then commented
